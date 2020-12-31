@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Convert Markdown file to html, which is embeded in html template.
+"""Convert Markdown file to html, which is embedded in html template.
 """
 
 from __future__ import (print_function, with_statement, unicode_literals,
